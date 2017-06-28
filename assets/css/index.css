@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: grey;
+    text-align: center;
+    padding: 1rem;
+    font-family: "Arial Black";
+}
+
+footer{
+    background: grey;
+    border: 2px solid black;
+    clear: both;
+}
+
+.paratwo{
+    float: left;
+    width: 58%;
+    margin-top: 0;
+    border: 2px solid black;
+    margin-right: 2%;
+    padding: 100px 0
+}
+
+.att{
+    background: gainsboro;
+    border: 2px solid black;
+}
+
+#main-header{
+    padding: 10px;
+    margin-bottom: 2%;
+}
+
+#main-header nav{
+    background:white;
+    padding:5px;
+}
+
+#section-left{
+    padding:100px 0;
+    float:left;
+    width:38%;
+    padding: 2%;
+    margin-right: 2%;
+}
+
+#section-left header{
+    background: white;
+    margin-bottom: 2%;
+}
+
+#section-left nav{
+    background:white;
+    margin-bottom: 2%;
+    padding: 280px 0 ;
+    border: 2px solid black;
+}
+
+#section-left footer{
+    background: white;
+    border: 2px solid black;
+}
+
+#section-right{
+    border: 2px solid black;
+    float: right;
+    width: 60%;
+    padding: 40px;
+    margin-bottom: 2%;
+}
+
+#section-right header{
+    border: 2px solid black;
+    background: white;
+    margin-bottom: 2%;
+}
+
+#section-right article{
+    border: 2px solid black;
+    margin-bottom: 2%;
+    padding: 1%;
+}
+
+#section-right p{
+    border: 2px solid black;
+    background: white;
+}
+
+#section-right aside{
+    background: white;
+    float: left;
+    border: 2px solid black;
+    width:40%;
+    padding:100px 0;
+}
+
+#section-right footer{
+    background: white;
+    border: 2px solid black;
+}
+
